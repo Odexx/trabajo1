@@ -1,18 +1,18 @@
 .prueba{
-    background:#f2f2f2;
+    background:rgb(199, 88, 199);
 }
-body{background:#f2f2f2;
+body{background:rgb(199, 88, 199);
 }
 .xd{
     margin: 0 auto;
     width: 350px;
-    background: hsl(0, 70%, 47%);
+    background: rgb(199, 88, 199);
     
 }
 .xd1{
     margin: 0 auto;
     width: 900px;
-    background: rgb(88, 173, 54);
+    background: rgb(199, 88, 199);
     padding:20px;
 }
 
@@ -26,21 +26,21 @@ body{background:#f2f2f2;
     margin: 0 auto;
     width: 400px;
     float: left;
-    background: rgb(91, 85, 121);
+    background: rgb(199, 88, 199);
     padding:20px;
 }
 .xd4{
     margin: 0 auto;
     width: 400px;
     float: right;
-    background: rgb(91, 85, 121);
+    background: rgb(199, 88, 199);
     padding:20px;
 }
 
 .xd5{
     display: flex;
     justify-content: center;
-    background: #f2f2f2;
+    background: rgb(199, 88, 199);
 }
 .ctr{
     text-align: center;
